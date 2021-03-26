@@ -1,0 +1,17 @@
+{
+  "name": "autotest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "MinhTran",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.1.3",
+    "moment": "^2.27.0",
+    "puppeteer": "^5.2.1"
+  }
+}
